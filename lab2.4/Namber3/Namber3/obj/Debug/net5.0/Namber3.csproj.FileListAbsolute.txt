@@ -1,0 +1,16 @@
+C:\Users\-\source\repos\Namber3\Namber3\bin\Debug\net5.0\Namber3.exe
+C:\Users\-\source\repos\Namber3\Namber3\bin\Debug\net5.0\Namber3.deps.json
+C:\Users\-\source\repos\Namber3\Namber3\bin\Debug\net5.0\Namber3.runtimeconfig.json
+C:\Users\-\source\repos\Namber3\Namber3\bin\Debug\net5.0\Namber3.runtimeconfig.dev.json
+C:\Users\-\source\repos\Namber3\Namber3\bin\Debug\net5.0\Namber3.dll
+C:\Users\-\source\repos\Namber3\Namber3\bin\Debug\net5.0\ref\Namber3.dll
+C:\Users\-\source\repos\Namber3\Namber3\bin\Debug\net5.0\Namber3.pdb
+C:\Users\-\source\repos\Namber3\Namber3\obj\Debug\net5.0\Namber3.csproj.AssemblyReference.cache
+C:\Users\-\source\repos\Namber3\Namber3\obj\Debug\net5.0\Namber3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\source\repos\Namber3\Namber3\obj\Debug\net5.0\Namber3.AssemblyInfoInputs.cache
+C:\Users\-\source\repos\Namber3\Namber3\obj\Debug\net5.0\Namber3.AssemblyInfo.cs
+C:\Users\-\source\repos\Namber3\Namber3\obj\Debug\net5.0\Namber3.csproj.CoreCompileInputs.cache
+C:\Users\-\source\repos\Namber3\Namber3\obj\Debug\net5.0\Namber3.dll
+C:\Users\-\source\repos\Namber3\Namber3\obj\Debug\net5.0\ref\Namber3.dll
+C:\Users\-\source\repos\Namber3\Namber3\obj\Debug\net5.0\Namber3.pdb
+C:\Users\-\source\repos\Namber3\Namber3\obj\Debug\net5.0\Namber3.genruntimeconfig.cache
